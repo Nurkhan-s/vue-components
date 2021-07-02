@@ -1,3 +1,3 @@
 # vue-components
 
-there are stores some base vue components
+here you can find some base vue components
